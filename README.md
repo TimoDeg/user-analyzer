@@ -34,6 +34,3 @@ Name: Clementina DuBuque | Username: Moriah.Stanton | Email: Rey.Padberg@karina.
 ## Notes
 
 This script uses dummy data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
-
-```
-
