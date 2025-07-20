@@ -37,5 +37,3 @@ This script uses dummy data from the [JSONPlaceholder](https://jsonplaceholder.t
 
 ```
 
----
-
